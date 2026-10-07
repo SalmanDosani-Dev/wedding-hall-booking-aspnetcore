@@ -32,5 +32,11 @@ A booking and management system for wedding halls and banquets: calendar-based r
 ## 🤝 Need something similar?
 
 I build custom booking, hotel, pharmacy, ERP and ordering systems, and modernize legacy WinForms / VB.NET apps to ASP.NET Core. See my [profile](https://github.com/SalmanDosani-Dev) for more.
-# wedding-hall-booking-aspnetcore
-Wedding hall booking and management system with ASP.NET Core and SQL Server
+
+
+## 📸 Screenshots
+
+| | |
+|---|---|
+| ![Dashboard](screenshots/dashboard.jpg) | ![Bookings](screenshots/bookings.jpg) |
+| ![Screen 3](screenshots/screen-3.jpg) | |
